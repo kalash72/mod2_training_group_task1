@@ -3,7 +3,6 @@ Arun Sahijpal
 Lavanya Talwar
 Chhavi Sharma
 
-<<<<<<< HEAD
 Akul Saxena
 Chhavi Sharma
 Arun Sahijpal
@@ -18,9 +17,8 @@ Arun Sahijpal
 Lavanya Talwar
 Chhavi Sharma
 Akul Saxena
-=======
+
 Lavanya Talwar
 Akul Saxena
 Arun Sahijpal
 Chhavi Sharma
->>>>>>> FT2-92-Lavanya
