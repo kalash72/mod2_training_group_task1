@@ -2,3 +2,4 @@ file
 edit
 view
 search
+tools
