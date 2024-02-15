@@ -1,0 +1,5 @@
+mint
+linux
+windows
+mac
+ubuntu
